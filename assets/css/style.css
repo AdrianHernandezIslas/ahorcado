@@ -1,0 +1,52 @@
+.etiqueta{
+    right: -700px;
+    font-size: 50px;
+    font-family: sans-serif;
+    margin-top: 0px;
+    color: #666;
+}
+
+.input{
+    width:30px;
+    height:30px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #979494;
+    padding: 2px 5px;
+    margin-left:1px;
+    margin-right: 1px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #666
+}
+
+.btn-letter{
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: rgb(31, 185, 206);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    margin-left:1px;
+    margin-right: 1px;
+    margin-top: 10px;
+    float: left;
+}
+
+.btn-letter:hover {background-color: #7aebc5}
+  
+.btn-letter:active {
+    background-color: rgb(31, 185, 206);
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.tam-img{
+    width:350px; 
+    height:450px;
+    float: left;
+}
